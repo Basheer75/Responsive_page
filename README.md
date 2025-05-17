@@ -1,5 +1,4 @@
-# PRODIGY_WD_01
-RESPONSIVE LANDING PAGE:-
+# RESPONSIVE LANDING PAGE:-
 
 1. Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
 2.The navigation menu should have a fixed position and be visible on all pages.
